@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME : JANARTHANAN K
-# Date : 31/08/2026
-# Reg No : 212223040072
+## NAME : JANARTHANAN K
+## Date : 31/08/2026
+## Reg No : 212223040072
 
 # Algorithm or Steps Involved:
 <ol>
